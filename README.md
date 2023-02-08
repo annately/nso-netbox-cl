@@ -1,5 +1,6 @@
-# nso-netbox-cl
-Examples from CIsco Live EMEA 2023
+# DEVNET-2459
+Examples from Cisco Live EMEA 2023
+
 
 
 # cisco_live.py
@@ -21,4 +22,4 @@ This script we can run from the environment, where NSO is running
 
 1. Gets the information on site subnet from Netbox,
 2. Reserves new pool in Netbox for site DHCP server
-3. Configures router as dhcp server
+3. Configures router as DHCP server
